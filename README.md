@@ -101,3 +101,12 @@ DB_PORT=
 ```json
 /redoc/
 ```
+
+### Авторы
+Авторы:
+===
+[needred](https://github.com/needred)
+[svs7771](https://github.com/svs7771)
+[frollow](https://github.com/frollow)
+Проект разрабатывался в команде, ссылка на репозиторий:
+https://github.com/svs7771/api_yamdb
